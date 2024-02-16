@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "puntos-app-28ff8": {
+      "hosting": {
+        "app-puntos-class": [
+          "puntos-app-28ff8"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "puntos-app-28ff8"
+  }
+}
